@@ -35,3 +35,16 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ### Focuses on Functionality and User Experience:
 
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+## Key elements in a wireframe
+### Layout Structure
+Layout structure defines the overall arrangement of elements on the page, focusing on how different sections of the UI will be organized. It includes the placement of headers, footers, sidebars, content areas, and interactive elements. The layout ensures that the interface is logical, balanced, and user-friendly, offering a clear flow of information while considering how users will interact with various sections of the page.
+
+### Navigation
+Navigation in a wireframe illustrates how users will move through the site or application, highlighting the flow between different pages or sections. It shows the placement of menus, links, buttons, and other navigational elements that guide users through the interface. Clear and intuitive navigation is essential to help users find information quickly and efficiently, ensuring a smooth user experience across the platform.
+
+### Content Placement
+Content placement refers to where text, images, buttons, forms, and other content will be positioned on the page. It determines the visual hierarchy and ensures that important information is easily accessible. By strategically placing content, wireframes help prioritize user focus, improve readability, and guide users through the content in a logical order that aligns with their needs and tasks.
+
+### Functionality
+Functionality outlines key interactive elements and behaviors within the wireframe, such as buttons, forms, search fields, and other UI components. It highlights how users will interact with the system, including actions like submitting a form, clicking a button, or navigating between pages. This section ensures that core features are represented and easily accessible, supporting the desired user experience and goals of the application.
